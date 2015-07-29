@@ -1,0 +1,3 @@
+name: Alex Franco | Designer, Developer, Photographer
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]
